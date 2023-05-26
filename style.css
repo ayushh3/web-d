@@ -100,7 +100,7 @@
     box-shadow: 0 0 0 2px white;
   }
   .div-1 {
-    /* margin: 20px 10px 0px; */
+    
     padding: 7px 40px 0px 15px;
     position: relative;
     text-align: center;
@@ -150,25 +150,11 @@
   
   
 
-  /* .ccc-1 {
-    vertical-align: left;
-   
-    height: 5vh;
-    width: 5vh;
-    background-color: #BABEFF;
-    
-    border-radius: 50%;
-    display: inline-block;
-    position: relative;
-    top: -45px;
-    left: 6.5vh;
-    box-shadow: 0 0 0 2px white;
-  } */
+  
   
   .bkg-5{
     background-color:  #D2D4F2;
-    /* height: 60px; */
-    /* display: inline; */
+    
   }
   .blk-1
   {
